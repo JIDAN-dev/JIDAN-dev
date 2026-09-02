@@ -31,8 +31,9 @@ I am currently learning JavaScript and TypeScript and improving my problem-solvi
 ## 🌐 Connect With Me
 
 
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://www.facebook.com/share/1DRV5ndxSL/" />
+  <p align="left">
+  <a href="https://www.facebook.com/share/1DRV5ndxSL/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
