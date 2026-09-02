@@ -39,8 +39,13 @@ I am currently learning JavaScript and TypeScript and improving my problem-solvi
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIDAN-dev&show_icons=true&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JIDAN-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Jidan's GitHub Stats"
+  />
 </p>
 
 <p align="left">
