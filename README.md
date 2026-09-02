@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Jidan Mahamud 👋
 
-<!--
-**JIDAN-dev/JIDAN-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer 💻
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Web Developer who is passionate about learning and building websites.
+I am currently learning JavaScript and TypeScript and improving my problem-solving skills.
+
+- 🌱 Currently learning JavaScript & TypeScript
+- 💻 Practicing web development every day
+- 🚀 Building small projects to improve my skills
+- 🎯 My goal is to become a professional Web Developer
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=js" width="45" />
+  <img src="https://skillicons.dev/icons?i=ts" width="45" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+</p>
+
+## 🌐 Connect With Me
+
+- 📧 Email
+- 💼 LinkedIn
+- 📘 Facebook
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JIDAN-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JIDAN-dev&theme=tokyonight" />
+</p>
